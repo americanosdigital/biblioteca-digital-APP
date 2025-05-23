@@ -1,0 +1,12 @@
+<app-navbar></app-navbar>
+
+<div class="pt-24 px-4 max-w-5xl mx-auto">
+<div *ngIf="livro" class="max-w-xl mx-auto mt-6 bg-white p-6 rounded shadow">
+  <h2 class="text-2xl font-bold mb-4">Detalhes do Livro</h2>
+
+  <p><strong>Título:</strong> {{ livro.titulo }}</p>
+  <p><strong>Autor:</strong> {{ livro.autor }}</p>
+  <p><strong>Ano:</strong> {{ livro.ano }}</p>
+  <p><strong>Gênero:</strong> {{ livro.genero }}</p>
+</div>
+</div>

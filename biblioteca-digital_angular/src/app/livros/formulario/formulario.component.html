@@ -1,0 +1,34 @@
+<app-navbar></app-navbar>
+
+<div class="pt-24 px-4 max-w-5xl mx-auto">
+<div class="max-w-xl mx-auto mt-6 bg-white p-6 rounded shadow">
+  <h2 class="text-xl font-bold mb-4">{{ isEditando ? 'Editar Livro' : 'Novo Livro' }}</h2>
+
+  <form (ngSubmit)="salvar()" #livroForm="ngForm" class="space-y-4">
+    <div>
+      <label class="block font-semibold">Título</label>
+      <input [(ngModel)]="livro.titulo" name="titulo" required class="w-full border p-2 rounded" />
+    </div>
+
+    <div>
+      <label class="block font-semibold">Autor</label>
+      <input [(ngModel)]="livro.autor" name="autor" required class="w-full border p-2 rounded" />
+    </div>
+
+    <div>
+      <label class="block font-semibold">Ano</label>
+      <input [(ngModel)]="livro.ano" name="ano" type="number" min="1900" required class="w-full border p-2 rounded" />
+    </div>
+
+    <div>
+      <label class="block font-semibold">Gênero</label>
+      <input [(ngModel)]="livro.genero" name="genero" required class="w-full border p-2 rounded" />
+    </div>
+
+    <button [disabled]="!livroForm.form.valid"
+            class="bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700">
+      {{ isEditando ? 'Atualizar' : 'Cadastrar' }}
+    </button>
+  </form>
+</div>
+</div>

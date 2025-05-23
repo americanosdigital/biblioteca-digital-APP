@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-api\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|solutionrelative:biblioteca-digital-api\\controllers\\livroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|solutionrelative:biblioteca-digital-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140DA14C-F1A6-4DAC-B13C-71CB11D9F9C6}|biblioteca-digital-API\\biblioteca-digital-API.csproj|solutionrelative:biblioteca-digital-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-application\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|solutionrelative:biblioteca-digital-application\\dtos\\livrodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E902B9B-7F3A-4564-A531-945EE9515C32}|biblioteca-digital-DOMAIN\\biblioteca-digital-DOMAIN.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E902B9B-7F3A-4564-A531-945EE9515C32}|biblioteca-digital-DOMAIN\\biblioteca-digital-DOMAIN.csproj|solutionrelative:biblioteca-digital-domain\\entities\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-application\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|solutionrelative:biblioteca-digital-application\\interfaces\\ilivroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-application\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4D3206F-18CE-4AF6-A8F0-EDCAC5AAC816}|biblioteca-digital-Application\\biblioteca-digital-Application.csproj|solutionrelative:biblioteca-digital-application\\services\\livroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|solutionrelative:biblioteca-digital-infrastructure\\repositories\\livrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E902B9B-7F3A-4564-A531-945EE9515C32}|biblioteca-digital-DOMAIN\\biblioteca-digital-DOMAIN.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-domain\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E902B9B-7F3A-4564-A531-945EE9515C32}|biblioteca-digital-DOMAIN\\biblioteca-digital-DOMAIN.csproj|solutionrelative:biblioteca-digital-domain\\interfaces\\ilivrorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|solutionrelative:biblioteca-digital-infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|e:\\documents\\projetos\\biblioteca-digital\\biblioteca-digital-app\\biblioteca-digital\\biblioteca-digital-infrastructure\\mappings\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DBDBE7C-26B5-4231-B94E-58652F29945B}|biblioteca-digital-Infrastructure\\biblioteca-digital-Infrastructure.csproj|solutionrelative:biblioteca-digital-infrastructure\\mappings\\livromap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-DOMAIN\\Entities\\Livro.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-DOMAIN\\Entities\\Livro.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-DOMAIN\\Entities\\Livro.cs",
+              "RelativeToolTip": "biblioteca-digital-DOMAIN\\Entities\\Livro.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:07:53.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LivroMap.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Mappings\\LivroMap.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Infrastructure\\Mappings\\LivroMap.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Mappings\\LivroMap.cs",
+              "RelativeToolTip": "biblioteca-digital-Infrastructure\\Mappings\\LivroMap.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:37:52.181Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "biblioteca-digital-Infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:39:29.469Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LivroRepository.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Repositories\\LivroRepository.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Infrastructure\\Repositories\\LivroRepository.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Infrastructure\\Repositories\\LivroRepository.cs",
+              "RelativeToolTip": "biblioteca-digital-Infrastructure\\Repositories\\LivroRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:55:13.136Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ILivroRepository.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-DOMAIN\\Interfaces\\ILivroRepository.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-DOMAIN\\Interfaces\\ILivroRepository.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-DOMAIN\\Interfaces\\ILivroRepository.cs",
+              "RelativeToolTip": "biblioteca-digital-DOMAIN\\Interfaces\\ILivroRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:55:00.571Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LivroService.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\Services\\LivroService.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Application\\Services\\LivroService.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\Services\\LivroService.cs",
+              "RelativeToolTip": "biblioteca-digital-Application\\Services\\LivroService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAIAxwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:54:24.679Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ILivroService.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\Interfaces\\ILivroService.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Application\\Interfaces\\ILivroService.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\Interfaces\\ILivroService.cs",
+              "RelativeToolTip": "biblioteca-digital-Application\\Interfaces\\ILivroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:53:38.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivroDto.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\DTOs\\LivroDto.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-Application\\DTOs\\LivroDto.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-Application\\DTOs\\LivroDto.cs",
+              "RelativeToolTip": "biblioteca-digital-Application\\DTOs\\LivroDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:52:47.121Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivrosController.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Controllers\\LivrosController.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-API\\Controllers\\LivrosController.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Controllers\\LivrosController.cs",
+              "RelativeToolTip": "biblioteca-digital-API\\Controllers\\LivrosController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T19:42:14.566Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Program.cs",
+              "RelativeDocumentMoniker": "biblioteca-digital-API\\Program.cs",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Program.cs",
+              "RelativeToolTip": "biblioteca-digital-API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T20:55:09.956Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "biblioteca-digital-API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Documents\\Projetos\\biblioteca-digital\\biblioteca-digital-APP\\biblioteca-digital\\biblioteca-digital-API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "biblioteca-digital-API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T22:47:50.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
